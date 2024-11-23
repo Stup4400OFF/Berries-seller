@@ -1,2 +1,1 @@
-# Berries-seller
-Just a games that runs in the terminal
+YOU WILL NEED PYHTON TO RUN THIS PROJECT
